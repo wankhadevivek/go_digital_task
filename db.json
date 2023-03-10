@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "vivek",
+      "middleName": "ashok",
+      "lastName": "wankhade",
+      "email": "vivek@gmail.com",
+      "phoneNumber": 4456456236,
+      "address1": "chennai",
+      "address2": "chennai",
+      "city": "chennai",
+      "state": "chennai",
+      "zip": "123456",
+      "id": 1
+    },
+    {
+      "firstName": "pranay",
+      "middleName": "mangesh",
+      "lastName": "ingole",
+      "email": "parnay@gmail.com",
+      "phoneNumber": 7755566332,
+      "address1": "kashmir",
+      "address2": "india",
+      "city": "delhi",
+      "state": "panjab",
+      "zip": "656565",
+      "id": 2
+    }
+  ]
+}
